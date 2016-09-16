@@ -23,6 +23,7 @@ Box plot of rent:
 ![Alt text](https://github.com/aditimehta/Analysis-of-a-bike-rental-store/blob/master/boxplot_rent.png "Box plot of rent")
 
 Histogram of bikes:
+
 ![Alt text](https://github.com/aditimehta/Analysis-of-a-bike-rental-store/blob/master/histogram_of_bikes.png "Histogram of bikes")
 
 Histogram of bikes with density curve:
